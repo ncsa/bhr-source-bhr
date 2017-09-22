@@ -41,3 +41,6 @@ def main():
 
     s = PeerBlocker(client)
     s.run()
+
+if __name__ == "__main__":
+    main()
